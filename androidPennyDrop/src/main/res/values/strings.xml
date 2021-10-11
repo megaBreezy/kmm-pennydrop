@@ -1,4 +1,6 @@
 <resources>
     <string name="pick_players_fragment">Pick Players Fragment</string>
     <string name="game_fragment">Game Fragment</string>
+    <string name="game">Game</string>
+    <string name="players">Players</string>
 </resources>

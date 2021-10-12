@@ -3,4 +3,5 @@
     <string name="game_fragment">Game Fragment</string>
     <string name="game">Game</string>
     <string name="players">Players</string>
+    <string name="play_button">Play Button</string>
 </resources>
